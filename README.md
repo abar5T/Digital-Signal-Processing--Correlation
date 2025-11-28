@@ -54,9 +54,5 @@ title(‘ Discrete cross correlated waveform’)
 
 ## OUTPUT:
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b44eebb1-3538-4991-a14b-533125bfb7fd" />
-
-
 ## RESULT:
-<img width="1600" height="586" alt="image" src="https://github.com/user-attachments/assets/5546af09-4201-4285-baef-ca4a0c0f2614" />
-
-
+![WhatsApp Image 2025-11-28 at 22 22 46_df52cd6a](https://github.com/user-attachments/assets/9711c961-b08d-4a2d-8402-0dee3964a01c)
